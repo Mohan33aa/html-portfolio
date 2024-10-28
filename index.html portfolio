@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+       <title> Mohan's portfolio</title>
+    </head>  
+    <body>
+        <h1>Mohan's portfolie</h1>
+        <h2>I'm a web developer</h2>
+        <hr/>
+       <h1> <a href="https:/movierankingproject">movie ranking project</a></h1>
+       <img src="./assets/images/movie-ranking.png"alt=movieranking/>
+       <h1><a href="https:/Birthdayinviteproject">Birthday Invite Project</a></h1>
+       <img src="./assets/images/birthday-invite.png"alt=birthdayinvite/>
+       <hr/>
+       <h5><a href="./about.html">about me:</a>
+           <a href="./contantme">content me:</a></h5>
+       
+
+    </body>  
+</html>        
